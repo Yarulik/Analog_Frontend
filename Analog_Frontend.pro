@@ -1,11 +1,9 @@
-update=7/27/2017 12:33:57 PM
+update=5/25/2018 2:19:18 PM
 version=1
 last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -68,3 +66,5 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
+[general]
+version=1

@@ -850,7 +850,7 @@ F 3 "" H 2100 1000 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Text GLabel 3150 1000 0    60   Input ~ 0
-20V
+HV
 $Comp
 L C C26
 U 1 1 59C81D72
@@ -931,7 +931,7 @@ $EndComp
 Text Label 3300 2000 3    60   ~ 0
 PULSE
 Text GLabel 1150 2750 0    60   Input ~ 0
-20V
+HV
 NoConn ~ 1100 1300
 NoConn ~ 1100 1750
 NoConn ~ 2100 1300
@@ -1003,7 +1003,7 @@ F 3 "" H 3450 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 1000 4050 1    60   Input ~ 0
-20V
+HV
 $Comp
 L PWR_FLAG #FLG035
 U 1 1 59CEF568
@@ -1101,7 +1101,7 @@ F 3 "" H 1500 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 2650 4100 1    60   Input ~ 0
-20V
+HV
 Text Notes 2800 3750 0    60   ~ 0
 Power Flags
 $Comp
